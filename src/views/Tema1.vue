@@ -236,7 +236,7 @@
             p.mb-0 Con estos conceptos y el ejemplo utilizado, se espera que se comprenda el concepto de sistema de costos por órdenes.  A continuación, se detalla el <b>ciclo contable de los costos por órdenes de producción:</b>
     
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg-color-11")
-      div(titulo="Compra de materia prima directa. ").px-5
+      div(titulo="Compra de materia prima directa").px-5
         .titulo-sexto.color-acento-contenido
           h5 Tabla 1.
           span Compra de materia prima directa.
@@ -274,7 +274,7 @@
                 td -
                 td -
                 td $$
-      div(titulo="Traslado de materia prima directa a la planta de producción. ").px-5
+      div(titulo="Traslado de materia prima directa a la planta de producción").px-5
         .titulo-sexto.color-acento-contenido
           h5 Tabla 2.
           span Traslado de materia prima directa a la planta de producción. 
@@ -301,7 +301,7 @@
                 td -
                 td $$
 
-      div(titulo="Contratación de mano de obra directa. ").px-5
+      div(titulo="Contratación de mano de obra directa").px-5
         .titulo-sexto.color-acento-contenido
           h5 Tabla 3.
           span Contratación de mano de obra directa. 
@@ -366,7 +366,7 @@
                 td -
                 td $$
 
-      div(titulo="Contratación de mano de obra indirecta.").px-5
+      div(titulo="Contratación de mano de obra indirecta").px-5
         .titulo-sexto.color-acento-contenido
           h5 Tabla 5.
           span Contratación de mano de obra indirecta.
@@ -456,7 +456,7 @@
                 td -
                 td $$
 
-      div(titulo="Servicios contratados o maquila en la cuenta control de producción.  ").px-5
+      div(titulo="Servicios contratados o maquila en la cuenta control de producción").px-5
         .titulo-sexto.color-acento-contenido
           h5 Tabla 7.
           span Servicios contratados o maquila en la cuenta control de producción.  
@@ -495,7 +495,7 @@
                 td -
                 td $$
 
-      div(titulo="Cierre o capitalización de la cuenta control de costos de producción.  ").px-5
+      div(titulo="Cierre o capitalización de la cuenta control de costos de producción").px-5
         .titulo-sexto.color-acento-contenido
           h5 Tabla 8.
           span Cierre o capitalización de la cuenta control de costos de producción.  
@@ -570,7 +570,7 @@
                 td -
                 td $$
 
-      div(titulo="Traslado de las unidades terminadas al inventario de producto terminado.").px-5
+      div(titulo="Traslado de las unidades terminadas al inventario de producto terminado").px-5
         .titulo-sexto.color-acento-contenido
           h5 Tabla 9.
           span Traslado de las unidades terminadas al inventario de producto terminado.
@@ -615,7 +615,7 @@
                 td -
                 td $$
 
-      div(titulo="Venta del producto terminado. ").px-5
+      div(titulo="Venta del producto terminado").px-5
         .titulo-sexto.color-acento-contenido
           h5 Tabla 10.
           span Venta del producto terminado. 
@@ -666,7 +666,7 @@
                 td -
                 td $$
 
-      div(titulo="Reconocimiento del costo de ventas.").px-5
+      div(titulo="Reconocimiento del costo de ventas").px-5
         .titulo-sexto.color-acento-contenido
           h5 Tabla 11.
           span Reconocimiento del costo de ventas.
@@ -1509,13 +1509,13 @@
       div(titulo="Sección de devengado.").px-5
         .titulo-sexto.color-acento-contenido
           h5 Figura 14.
-          span Sección de devengado.
+          span Sección de devengado
         figure
           img(src="@/assets/curso/temas/tema1/39.svg", alt="Tabla de la sección de devengado de la nómina de septiembre de 2020 que contiene datos de identificación del trabajador, sueldo básico, horas extras, comisiones, auxilio de transporte, otros conceptos y total devengado. ")
       div(titulo="Sección de deducciones y neto a pagar.").px-5
         .titulo-sexto.color-acento-contenido
           h5 Figura 15.
-          span Sección de deducciones y neto a pagar.
+          span Sección de deducciones y neto a pagar
         figure
           img(src="@/assets/curso/temas/tema1/40.svg", alt="Tabla de la sección de deducciones y neto a pagar que incluye aportes a salud y pensión, retención en la fuente, préstamos, otras deducciones, total deducciones y valor neto pagado al trabajador. ")
       div(titulo="Sección de devengado.").px-5
@@ -1523,15 +1523,15 @@
           .col-lg-10
             .titulo-sexto.color-acento-contenido
               h5 Figura 16.
-              span Sección de devengado.
+              span Sección de prestaciones sociales
             figure
               img(src="@/assets/curso/temas/tema1/41.svg", alt="Tabla de la sección de prestaciones sociales que detalla los porcentajes aplicables y valores correspondientes a cesantías, intereses sobre cesantías, prima y vacaciones, con base de cálculo y totales por cada concepto. ")
       div(titulo="Sección de devengado.").px-5
         .titulo-sexto.color-acento-contenido
           h5 Figura 17.
-          span Sección de devengado.
+          span Sección de aportes a seguridad social y parafiscales
         figure
-          img(src="@/assets/curso/temas/tema1/42.svg", alt="Sección de aportes a seguridad social y parafiscales.")
+          img(src="@/assets/curso/temas/tema1/42.svg", alt="Tabla de la sección de aportes a seguridad social y parafiscales que presenta los porcentajes y valores correspondientes a ARL, EPS, fondo de pensiones (FP), caja de compensación (CAJA C), ICBF y SENA como parte de los aportes patronales. ")
 
     .bg-color-3.mb-5(data-aos="fade-up")
       .row.justify-content-center.align-items-center
@@ -1540,9 +1540,1562 @@
             img(src='@/assets/curso/temas/tema1/43.png', alt='')
         .col-lg
           .p-4
-            p.mb-0(data-aos="fade-up") Para la gestión de proyectos, la elaboración de una propuesta completa es un elemento esencial que transforma una idea inicial en un plan estructurado y viable. Este proceso permite definir objetivos, establecer estrategias y garantizar que los recursos y esfuerzos estén alineados hacia el logro de metas específicas. Una propuesta bien diseñada actúa como un mapa detallado que guía al equipo de trabajo desde la concepción hasta la implementación y evaluación del proyecto.
-      
+            p.mb-0(data-aos="fade-up") En los costos de la mano de obra directa, se requiere establecer el promedio de días laborados teniendo en cuenta que los dominicales y festivos no son laborales, por tanto, a los días del año se le deben restar los dominicales y festivos y a ese resultado lo dividimos entre 12 para obtener los días laborados promedio mes. Luego se toma el total pagado al trabajador, donde incluimos lo devengado más la carga prestacional, los aportes a seguridad social y parafiscales a cargo de la empresa, y el resultado obtenido se divide entre los días promedio trabajados en el mes, y así se obtiene el costo día; el resultado obtenido lo dividimos en 8 horas y obtenemos el valor de la hora hombre, y este resultado lo dividimos entre 60 minutos para obtener el valor minuto de mano de obra directa.
+    
+    .bg-full-width.bg-color-37
+      .px-4.px-md-5.pb-md-3
+        .row.justify-content-center.mb-5
+          .col-lg-10
+            .titulo-sexto.color-acento-contenido
+              h5 Figura 18.
+              span Cálculo de salario y prestaciones mensual
+            figure
+              img(src="@/assets/curso/temas/tema1/44.svg", alt="Tabla de cálculo de salario y prestaciones mensuales que incluye el total de prestaciones y aportes, total pagado en el mes, días, horas y minutos laborados, junto con el valor correspondiente por día, hora y minuto.  ", data-aos="zoom-in")
+    
+        .row.justify-content-center.mb-5
+          .col-lg-8(data-aos="fade-up")
+            .titulo-sexto.color-acento-contenido
+              h5 Tabla 27.
+              span Liquidación de la mano de obra directa e indirecta
+            .tabla-a.color-acento-botones
+              table
+                thead
+                  tr
+                    th.bg-color-35 Edad
+                    th.bg-color-35 Código
+                    th.bg-color-35 Valor Fijo
+                    th.bg-color-35 Factor
+                    th.bg-color-35 Monto A
+                    th.bg-color-35 Días
+                    th.bg-color-35 Monto B
+                tbody.bg-color-white
+                  tr
+                    td 45
+                    td ZZ
+                    td 11
+                    td 1
+                    td $ 877.657
+                    td 30
+                    td $ 877.657
+                  tr
+                    td 47
+                    td SS
+                    td 11
+                    td 1
+                    td $ 877.657
+                    td 30
+                    td $ 877.657
+                  tr
+                    td 49
+                    td UU
+                    td 11
+                    td 1
+                    td $ 877.657
+                    td 30
+                    td $ 877.657
+                  tr
+                    td 51
+                    td PP
+                    td 11
+                    td 1
+                    td $ 877.657
+                    td 30
+                    td $ 877.657
+                  tr
+                    td 53
+                    td RR
+                    td 11
+                    td 1
+                    td $ 877.657
+                    td 30
+                    td $ 877.657
+                  tr
+                    td 55
+                    td MM
+                    td 11
+                    td 1
+                    td $ 877.657
+                    td 30
+                    td $ 877.657
+                  tr
+                    td 57
+                    td NN
+                    td 11
+                    td 1
+                    td $ 877.657
+                    td 30
+                    td $ 877.657
+                  tr
+                    td 59
+                    td LL
+                    td 11
+                    td 1
+                    td $ 877.657
+                    td 30
+                    td $ 877.657
+                  tr
+                    td 61
+                    td ÑÑ
+                    td 11
+                    td 1
+                    td $ 877.657
+                    td 30
+                    td $ 877.657
+                  tr
+                    td 63
+                    td HH
+                    td 11
+                    td 1
+                    td $ 877.657
+                    td 30
+                    td $ 877.657
 
+        .row.justify-content-center.mb-5
+          .col-lg-10(data-aos="fade-down")
+            .titulo-sexto.color-acento-contenido
+              h5 Tabla 28.
+              span Reconocimiento de la mano de obra directa de 1 operario
+            .tabla-a.color-acento-botones
+              table
+                thead
+                  tr
+                    th.bg-color-35 Número de Registro
+                    th.bg-color-35 Fecha de Movimiento
+                    th.bg-color-35 Tipo de Movimiento (NM)
+                    th.bg-color-35 Cantidad
+                    th.bg-color-35 Código de Afiliado/Producto
+                    th.bg-color-35 Entidad
+                    th.bg-color-35 Número de Registro
+                tbody.bg-color-white
+                  tr
+                    td 15
+                    td 30/09/2020
+                    td NM
+                    td 1
+                    td 860240
+                    td ARL POSITIVA
+                    td RRI
+                  tr
+                    td 16
+                    td 30/09/2020
+                    td NM
+                    td 1
+                    td 860240
+                    td ARL POSITIVA
+                    td RRI
+                  tr
+                    td 17
+                    td 30/09/2020
+                    td NM
+                    td 1
+                    td 860230
+                    td COLPENSIONES
+                    td RRI
+                  tr
+                    td 18
+                    td 30/09/2020
+                    td NM
+                    td 1
+                    td 860230
+                    td COLPENSIONES
+                    td RRI
+                  tr
+                    td 19
+                    td 30/09/2020
+                    td NM
+                    td 1
+                    td 860250
+                    td CAJA COMPENSACIÓN
+                    td RRI
+                  tr
+                    td 20
+                    td 30/09/2020
+                    td NM
+                    td 1
+                    td 860250
+                    td CAJA COMPENSACIÓN
+                    td RRI
+                  tr
+                    td 21
+                    td 30/09/2020
+                    td NM
+                    td 1
+                    td 12
+                    td AA
+                    td RRI
+                  tr
+                    td 22
+                    td 30/09/2020
+                    td NM
+                    td 1
+                    td 12
+                    td AA
+                    td RRI
+                  tr
+                    td 23
+                    td 30/09/2020
+                    td NM
+                    td 1
+                    td 860220
+                    td NUEVA EPS
+                    td RRI
+                  tr
+                    td 24
+                    td 30/09/2020
+                    td NM
+                    td 1
+                    td 860230
+                    td COLPENSIONES
+                    td RRI
+        .row.justify-content-center.mb-5
+          .col-lg-8(data-aos="fade-up")
+            .titulo-sexto.color-acento-contenido
+              h5 Tabla 29.
+              span Reconocimiento de mano de obra directa
+            .tabla-a.color-acento-botones
+              table
+                thead
+                  tr
+                    th.bg-color-35 CÓDIGO
+                    th.bg-color-35 CUENTA
+                    th.bg-color-35 CC -OP
+                    th.bg-color-35 DÉBITO
+                    th.bg-color-35 CRÉDITO
+                tbody.bg-color-white
+                  tr
+                    td 720506
+                    td SUELDOS
+                    td 1001
+                    td $1.000.000
+                    td -
+                  tr
+                    td 720527
+                    td AUXILIO DE TRANSPORTE
+                    td 1001
+                    td $102.854
+                    td -
+                  tr
+                    td 237005
+                    td APORTES A EPS
+                    td 1001
+                    td -
+                    td $40.000
+                  tr
+                    td 237045
+                    td FONDOS
+                    td 1001
+                    td -
+                    td $40.000
+                  tr
+                    td 136595
+                    td OTROS
+                    td 1001
+                    td -
+                    td $20.000
+                  tr
+                    td 250505
+                    td SALARIOS POR PAGAR
+                    td 1001
+                    td -
+                    td $1.002.854
+                  tr
+                    td 720530
+                    td CESANTÍAS
+                    td 1001
+                    td $91.868
+                    td -
+                  tr
+                    td 251005
+                    td LEY LABORAL ANTERIOR
+                    td 1001
+                    td -
+                    td $91.868
+                  tr
+                    td 720533
+                    td INTERESES SOBRE CESANTÍAS
+                    td 1001
+                    td $11.029
+                    td -
+                  tr
+                    td 251505
+                    td INTERESES SOBRE CESANTÍAS
+                    td 1001
+                    td -
+                    td $11.029
+                  tr
+                    td 720536
+                    td PRIMA DE SERVICIOS
+                    td 1001
+                    td $91.868
+                    td -
+                  tr
+                    td 252005
+                    td PRIMA DE SERVICIOS
+                    td 1001
+                    td -
+                    td $91.868
+                  tr
+                    td 720539
+                    td VACACIONES
+                    td 1001
+                    td $41.700
+                    td -
+                  tr
+                    td 252505
+                    td VACACIONES CONSOLIDADAS
+                    td 1001
+                    td -
+                    td $41.700
+                  tr
+                    td 720568
+                    td APORTES A ADMINISTRADORAS
+                    td 1001
+                    td $5.220
+                    td -
+                  tr
+                    td 237006
+                    td APORTES A ADMINISTRADORAS
+                    td 1001
+                    td -
+                    td $5.220
+                  tr
+                    td 720570
+                    td APORTES A FONDOS
+                    td 1001
+                    td $120.000
+                    td -
+                  tr
+                    td 237045
+                    td FONDOS
+                    td 1001
+                    td -
+                    td $120.000
+                  tr
+                    td 720572
+                    td APORTES CAJAS
+                    td 1001
+                    td $40.000
+                    td -
+                  tr
+                    td 237010
+                    td APORTES ICBF SENA CAJAS
+                    td 1001
+                    td -
+                    td $40.000
+                  tr
+                    td 720506
+                    td SUELDOS
+                    td 1001
+                    td $1.000.000
+                    td -
+                  tr
+                    td 720627
+                    td AUXILIO DE TRANSPORTE
+                    td 1001
+                    td $102.854
+                    td -
+                  tr
+                    td 237005
+                    td APORTES A EPS
+                    td 1001
+                    td -
+                    td $40.000
+                  tr
+                    td 237045
+                    td FONDOS
+                    td 1001
+                    td -
+                    td $40.000
+                  tr
+                    td 250505
+                    td SALARIOS POR PAGAR
+                    td 1001
+                    td -
+                    td $1.022.854
+                  tr
+                    td 720530
+                    td CESANTÍAS
+                    td 1001
+                    td $91.868
+                    td -
+                  tr
+                    td 251005
+                    td LEY LABORAL ANTERIOR
+                    td 1001
+                    td -
+                    td $91.868
+                  tr
+                    td 720533
+                    td INTERESES SOBRE CESANTÍAS
+                    td 1001
+                    td $11.029
+                    td -
+                  tr
+                    td 251505
+                    td INTERESES SOBRE CESANTÍAS
+                    td 1001
+                    td -
+                    td $11.029
+                  tr
+                    td 720536
+                    td PRIMA DE SERVICIOS
+                    td 1001
+                    td $91.868
+                    td -
+                  tr
+                    td 252005
+                    td PRIMA DE SERVICIOS
+                    td 1001
+                    td -
+                    td $91.868
+                  tr
+                    td 720539
+                    td VACACIONES
+                    td 1001
+                    td $41.700
+                    td -
+                  tr
+                    td 252505
+                    td VACACIONES CONSOLIDADAS
+                    td 1001
+                    td -
+                    td $41.700
+                  tr
+                    td 720568
+                    td APORTES A ADMINISTRADORAS
+                    td 1001
+                    td $5.220
+                    td -
+                  tr
+                    td 2347006
+                    td APORTES A ADMINISTRADORAS
+                    td 1001
+                    td -
+                    td $5.220
+                  tr
+                    td 720570
+                    td APORTES A FONDOS
+                    td 1001
+                    td $120.000
+                    td -
+                  tr
+                    td 237045
+                    td FONDOS
+                    td 1001
+                    td -
+                    td $120.000
+                  tr
+                    td 720572
+                    td APORTES CAJAS
+                    td 1001
+                    td $40.000
+                    td -
+                  tr
+                    td 237010
+                    td APORTES ICBF SENA CAJAS
+                    td 1001
+                    td -
+                    td $40.000
+    
+    p Posteriormente, el departamento de contabilidad, con la información del control de tiempo que le suministra el jefe de producción, registrará en cada orden de producción el costo de la mano de obra directa realmente trabajada al momento de capitalizar la cuenta control de producción al inventario de productos en proceso.
+    p Compra y/o traslado de los insumos de producción, liquidación de la mano de obra indirecta y cargo de los otros costos indirectos de fabricación, junto con su reconocimiento.
+    p.mb-5 Uno de los procesos más dispendiosos en el tratamiento contable son los costos indirectos de fabricación, por su complejidad en la medición y en la distribución a cada orden de producción, por lo que las industrias han optado establecer una tasa predeterminada de costos indirectos de fabricación, la cual se pueden determinar teniendo en cuenta factores como costo materia prima directa,  costo mano de obra directa, costo primo de producción, horas hombre, horas máquina y unidades producidas entre otros inductores.
+
+    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg-color-11")
+      div(titulo="Compra de insumos").px-5
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 19.
+          span Compra de insumos
+        figure
+          img(src="@/assets/curso/temas/tema1/45.svg", alt="Tabla de compra de insumos que contiene datos del proveedor, comprador, fecha de emisión y número de factura, junto con los conceptos adquiridos (sal, cebolla, cilantro, ají), cantidades, unidad de medida, precios unitarios, valores totales, subtotal e IVA. ")
+      div(titulo="Reconocimiento compra de insumos").px-5
+        .row.justify-content-center
+          .col-lg-8
+            .titulo-sexto.color-acento-contenido
+              h5 Tabla 30.
+              span Reconocimiento compra de insumos
+            .tabla-a.color-acento-botones
+              table
+                thead
+                  tr
+                    th.bg-color-35 CÓDIGO
+                    th.bg-color-35 CUENTA
+                    th.bg-color-35 CC - OP
+                    th.bg-color-35 DÉBITO
+                    th.bg-color-35 CRÉDITO
+                tbody.bg-color-white
+                  tr
+                    td 730101
+                    td INSUMO MPI
+                    td 22
+                    td $576.000
+                    td -
+                  tr
+                    td 220505
+                    td PROVEEDORES
+                    td 22
+                    td -
+                    td $576.000
+
+      div(titulo="Reconocimiento mano de obra indirecta").px-5
+        .row.justify-content-center
+          .col-lg-10
+            .titulo-sexto.color-acento-contenido
+              h5 Tabla 31.
+              span Reconocimiento mano de obra indirecta
+            .tabla-a.color-acento-botones
+              table
+                thead
+                  tr
+                    th.bg-color-35 SE
+                    th.bg-color-35 FECHA
+                    th.bg-color-35 TIPO DE DOC
+                    th.bg-color-35 CONSECUTIVO
+                    th.bg-color-35 NIT
+                    th.bg-color-35 NOMBRE DE
+                    th.bg-color-35 RÉGIMEN
+                tbody.bg-color-white
+                  tr
+                    td 1
+                    td 30/09/2020
+                    td NM
+                    td 1
+                    td 432
+                    td RICO ADAN
+                    td RRI
+                  tr
+                    td 2
+                    td 30/09/2020
+                    td NM
+                    td 1
+                    td 860220
+                    td NUEVA EPS
+                    td RRI
+                  tr
+                    td 3
+                    td 30/09/2020
+                    td NM
+                    td 1
+                    td 860220
+                    td COLPENSION
+                    td RRI
+                  tr
+                    td 4
+                    td 30/09/2020
+                    td NM
+                    td 1
+                    td 432
+                    td RICO ADAN
+                    td RRI
+                  tr
+                    td 5
+                    td 30/09/2020
+                    td NM
+                    td 1
+                    td 432
+                    td RICO ADAN
+                    td RRI
+                  tr
+                    td 6
+                    td 30/09/2020
+                    td NM
+                    td 1
+                    td 432
+                    td RICO ADAN
+                    td RRI
+                  tr
+                    td 7
+                    td 30/09/2020
+                    td NM
+                    td 1
+                    td 432
+                    td RICO ADAN
+                    td RRI
+                  tr
+                    td 8
+                    td 30/09/2020
+                    td NM
+                    td 1
+                    td 432
+                    td RICO ADAN
+                    td RRI
+                  tr
+                    td 9
+                    td 30/09/2020
+                    td NM
+                    td 1
+                    td 432
+                    td RICO ADAN
+                    td RRI
+
+      div(titulo="Reconocimiento de mano de obra directa").px-5
+        .row.justify-content-center
+          .col-lg-10
+            .titulo-sexto.color-acento-contenido
+              h5 Tabla 32.
+              span Reconocimiento de mano de obra directa
+            .tabla-a.color-acento-botones
+              table
+                thead
+                  tr
+                    th.bg-color-35 CÓDIGO
+                    th.bg-color-35 CUENTA
+                    th.bg-color-35 OP
+                    th.bg-color-35 DÉBITO
+                    th.bg-color-35 CRÉDITO
+                tbody.bg-color-white
+                  tr
+                    td 720506
+                    td SUELDOS
+                    td 1001
+                    td $2.500.000
+                    td -
+                  tr
+                    td 237005
+                    td APORTES A EPS
+                    td 1001
+                    td -
+                    td $100.000
+                  tr
+                    td 237045
+                    td FONDOS
+                    td 1001
+                    td -
+                    td $100.000
+                  tr
+                    td 136595
+                    td OTROS
+                    td 1001
+                    td -
+                    td $50.000
+                  tr
+                    td 250505
+                    td SALARIOS POR PAGAR
+                    td 1001
+                    td -
+                    td $2.250.000
+                  tr
+                    td 720530
+                    td CESANTÍAS
+                    td 1001
+                    td $208.250
+                    td -
+                  tr
+                    td 251005
+                    td LEY LABORAL ANTERIOR
+                    td 1001
+                    td -
+                    td $208.250
+                  tr
+                    td 720533
+                    td INTERESES SOBRE CESANTÍAS
+                    td 1001
+                    td $25.000
+                    td -
+                  tr
+                    td 251505
+                    td INTERESES SOBRE CESANTÍAS
+                    td 1001
+                    td -
+                    td $25.000
+                  tr
+                    td 720536
+                    td PRIMA DE SERVICIOS
+                    td 1001
+                    td $208.250
+                    td -
+                  tr
+                    td 252005
+                    td PRIMA DE SERVICIOS
+                    td 1001
+                    td -
+                    td $208.250
+                  tr
+                    td 720539
+                    td VACACIONES
+                    td 1001
+                    td $104.250
+                    td -
+                  tr
+                    td 252505
+                    td VACACIONES CONSOLIDADAS
+                    td 1001
+                    td -
+                    td $104.250
+                  tr
+                    td 720568
+                    td APORTES A ARP
+                    td 1001
+                    td $13.050
+                    td -
+                  tr
+                    td 237006
+                    td APORTES A ARP
+                    td 1001
+                    td -
+                    td $13.050
+                  tr
+                    td 720570
+                    td APORTES A FONDOS
+                    td 1001
+                    td $300.000
+                    td -
+                  tr
+                    td 237045
+                    td FONDOS
+                    td 1001
+                    td -
+                    td $300.000
+                  tr
+                    td 720572
+                    td APORTES CAJAS
+                    td 1001
+                    td $100.000
+                    td -
+                  tr
+                    td 237010
+                    td APORTES ICBF SENA CAJAS
+                    td 1001
+                    td -
+                    td $100.000
+                  tr
+                    td 720506
+                    td SUELDOS
+                    td 1001
+                    td $877.657
+                    td -
+                  tr
+                    td 720627
+                    td AUXILIO DE TRANSPORTE
+                    td 1001
+                    td $102.854
+                    td -
+                  tr
+                    td 237005
+                    td APORTES A EPS
+                    td 1001
+                    td -
+                    td $35.106
+                  tr
+                    td 237045
+                    td FONDOS
+                    td 1001
+                    td -
+                    td $35.106
+                  tr
+                    td 250505
+                    td SALARIOS POR PAGAR
+                    td 1001
+                    td -
+                    td $910.298
+                  tr
+                    td 720530
+                    td CESANTÍAS
+                    td 1001
+                    td $81.677
+                    td -
+                  tr
+                    td 251005
+                    td LEY LABORAL ANTERIOR
+                    td 1001
+                    td -
+                    td $81.677
+                  tr
+                    td 720533
+                    td INTERESES SOBRE CESANTÍAS
+                    td 1001
+                    td $9.805
+                    td -
+                  tr
+                    td 251505
+                    td INTERESES SOBRE CESANTÍAS
+                    td 1001
+                    td -
+                    td $9.805
+                  tr
+                    td 720536
+                    td PRIMA DE SERVICIOS
+                    td 1001
+                    td $81.677
+                    td -
+                  tr
+                    td 252005
+                    td PRIMA DE SERVICIOS
+                    td 1001
+                    td -
+                    td $81.677
+                  tr
+                    td 720539
+                    td VACACIONES
+                    td 1001
+                    td $36.598
+                    td -
+                  tr
+                    td 252505
+                    td VACACIONES CONSOLIDADAS
+                    td 1001
+                    td -
+                    td $36.598
+                  tr
+                    td 720568
+                    td APORTES A ADMINISTRADORAS
+                    td 1001
+                    td $4.581
+                    td -
+                  tr
+                    td 234706
+                    td APORTES A ADMINISTRADORAS
+                    td 1001
+                    td -
+                    td $4.581
+                  tr
+                    td 720570
+                    td APORTES A FONDOS
+                    td 1001
+                    td $105.319
+                    td -
+                  tr
+                    td 237045
+                    td FONDOS
+                    td 1001
+                    td -
+                    td $105.319
+                  tr
+                    td 720572
+                    td APORTES CAJAS
+                    td 1001
+                    td $35.106
+                    td -
+                  tr
+                    td 237010
+                    td APORTES ICBF SENA CAJAS
+                    td 1001
+                    td -
+                    td $35.106
+
+    .row.mb-5
+      .col-lg-3.mb-3.mb-lg-0
+        figure
+          img(src="@/assets/curso/temas/tema1/45-1.png", data-aos="zoom-in")
+      .col-lg-9
+        p(data-aos="fade-left") Al terminar la producción a final de mes, se realiza el cierre de las cuentas control de costos de producción contra el inventario de productos, lo cual significa que las cuentas deben quedar canceladas al cierre de todos los meses.
+        p A continuación, se puede observar el proceso detallado y explicado mediante un ejemplo. Para efectos del cierre de las cuentas de control de producción, se crean en el plan de cuentas las respectivas cuentas de cierre:
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 33.
+          span Clasificación de Costos de Producción
+        .tabla-a.color-acento-botones
+          table
+            thead
+              tr
+                th.bg-color-35 Código de Costo
+                th.bg-color-35 Categoría de Costo
+            tbody.bg-color-white
+              tr
+                td 719598
+                td Materia prima directa
+              tr
+                td 729598
+                td Mano de obra directa
+              tr
+                td 739598
+                td Costos indirectos de fabricación
+              tr
+                td 749598
+                td Servicios contratados a terceros (maquila)
+
+    p.mb-5 Una vez creadas las cuentas, se procede a establecer los saldos de la materia prima directa, mano de obra directa, costos indirectos de fabricación y servicios contratados a terceros maquila. Los saldos se obtienen mediante auxiliares, o saldos balance de prueba, para hacer la capitalización de las cuentas del control de costos de producción al inventario de productos en proceso por cada uno de los elementos del costo.
+
+    .row.justify-content-center.mb-5
+      .col-lg-10(data-aos="fade-up") 
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 34.
+          span Reconocimiento capitalización costos de producción MPD Y MOD
+        .tabla-a.color-acento-botones
+          table
+            thead
+              tr
+                th.bg-color-35 CÓDIGO
+                th.bg-color-35 CUENTA
+                th.bg-color-35 CC - OP
+                th.bg-color-35 DÉBITO
+                th.bg-color-35 CRÉDITO
+            tbody.bg-color-white
+              tr
+                td 141005
+                td PRODUCTOS EN PROCESO
+                td 1001
+                td $35.647.500
+                td -
+              tr
+                td 719598
+                td CAPITALIZACIÓN
+                td 1001
+                td -
+                td $35.647.500
+              tr
+                td 141010
+                td PRODUCTOS EN PROCESO
+                td 1001
+                td $33.400.689
+                td -
+              tr
+                td 729598
+                td CAPITALIZACIÓN
+                td 1001
+                td -
+                td $33.400.689
+    
+    .row.justify-content-center.align-items-center.bg-color-12.tarjeta.p-5.mb-5
+      .col-lg-12
+        .row.justify-content-center.align-items-center
+          .col-lg-8(data-aos="fade-left").order-2
+            p En cuanto a los costos indirectos de fabricación, se pueden presentar novedades, como no contar con todas las facturas de servicios públicos por fechas o facturas de mantenimiento con  atraso en contabilidad, por lo cual se  procede a trasladar las unidades terminadas del inventario de productos en proceso al inventario de productos terminados, utilizando la tasa CIF predeterminada y, cuando se culminen los registros del CIF, se cerrará dicha cuenta control y se realizará el reconocimiento del  ajuste respectivo a los inventarios y del costo de ventas, en caso de ser necesario.
+            p Se procede a calcular el CIF predeterminado aplicando la tasa CIF del costo primo.
+            .titulo-sexto.color-acento-contenido
+              h5 Tabla 35.
+              span Desglose de Costos de Producción
+            .tabla-a.color-acento-botones
+              table
+                thead
+                  tr
+                    th.bg-color-35 CONCEPTO
+                    th.bg-color-35 VALOR
+                tbody.bg-color-white
+                  tr
+                    td MATERIA PRIMA DIRECTA
+                    td $35.647.500
+                  tr
+                    td MANO DE OBRA DIRECTA
+                    td $33.400.689
+                  tr
+                    td COSTO PRIMA
+                    td $69.048.189
+                  tr
+                    td TASA CIF PREDETERMINADA
+                    td 15,12%
+                  tr
+                    td.bg-color-38.text-white CIF PREDETERMINADO
+                    td.bg-color-38.text-white $10.440.086
+
+          .col-lg-4(data-aos="zoom-in").order-1.mb-3.mb-lg-0
+            img.img-fluid(src='@/assets/curso/temas/tema1/45-2.svg', style="max-width:486px", alt="" ).mx-auto.mx-lg-0.ms-lg-auto.mb-4.mb-lg-0
+    
+    p.mb-5 Ahora, se trasladan las unidades terminadas del inventario de productos en proceso al inventario de productos terminados, utilizando el CIF predeterminado.
+
+    .row.justify-content-center.mb-5
+      .col-lg-10(data-aos="fade-up") 
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 36.
+          span Registro contable de costos de producción
+        .tabla-a.color-acento-botones
+          table
+            thead
+              tr
+                th.bg-color-35 CÓDIGO
+                th.bg-color-35 CUENTA
+                th.bg-color-35 CC - OP
+                th.bg-color-35 DÉBITO
+                th.bg-color-35 CRÉDITO
+            tbody.bg-color-white
+              tr
+                td 141005
+                td PRODUCTOS EN PROCESO
+                td 1001
+                td -
+                td $35.647.500
+              tr
+                td 141010
+                td PRODUCTOS EN PROCESO
+                td 1001
+                td $33.400.689
+                td -
+              tr
+                td 141015
+                td PRODUCTOS EN PROCESO
+                td 1001
+                td -
+                td $10.440.086
+              tr
+                td 143014
+                td PRODUCTOS EN PROCESO
+                td -
+                td $79.488.275
+                td -
+
+    .titulo-sexto.color-acento-contenido
+      h5 Figura 20.
+      span Registro en el Kardex para el control de existencias de cada producto.
+    figure.mb-5
+      img(src="@/assets/curso/temas/tema1/46.svg", alt="Tabla tipo Kardex para el producto empanada con referencia 6677, que incluye proveedor interno, cantidades mínima y máxima, unidad de medida, y registro de entrada, salida y saldo con fecha, descripción, cantidad, valor unitario promedio y valor total.")
+
+    p.mb-5 Una vez terminado el producto, se inicia el proceso de ventas. Ejemplo:  se facturan 40.000 unidades a almacenes Éxito S.A.
+
+    .titulo-sexto.color-acento-contenido
+      h5 Figura 21.
+      span Factura de venta emitida por Empanadazo LTDA
+    figure.mb-5
+      img(src="@/assets/curso/temas/tema1/47.svg", alt="Tabla tipo Kardex para el producto empanada con referencia 6677, que incluye proveedor interno, cantidades mínima y máxima, unidad de medida, y registro de entrada, salida y saldo con fecha, descripción, cantidad, valor unitario promedio y valor total.")
+
+    p.mb-5 Se realiza el reconocimiento de la venta.
+
+    .row.justify-content-center.mb-5
+      .col-lg-10(data-aos="fade-up") 
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 37.
+          span Registro Contable de Factura de Venta
+        .tabla-a.color-acento-botones
+          table
+            thead
+              tr
+                th.bg-color-35 CÓDIGO
+                th.bg-color-35 CUENTA
+                th.bg-color-35 CC - OP
+                th.bg-color-35 DÉBITO
+                th.bg-color-35 CRÉDITO
+            tbody.bg-color-white
+              tr
+                td 412014
+                td ELABORACIÓN OTROS PROD. ALIMENTICIOS
+                td 22
+                td -
+                td $120.000.000
+              tr
+                td 135515
+                td RETENCIÓN EN LA FUENTE
+                td 22
+                td $3.000.000
+                td -
+              tr
+                td 135518
+                td ICA VENTA 9,66*100
+                td 22
+                td $1.324.800
+                td -
+              tr
+                td 130505
+                td NACIONALES
+                td 22
+                td $115.675.200
+                td -
+              tr
+                td 135519
+                td AUTORRETENCIÓN
+                td 22
+                td $480.000
+                td -
+              tr
+                td 236575
+                td AUTORRETENCIÓN
+                td 22
+                td -
+                td $480.000
+
+    p.mb-5 Se reconoce contablemente el costo de la mercancía vendida y la salida de inventarios.
+
+    .row.justify-content-center.mb-5
+      .col-lg-10(data-aos="fade-up") 
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 38.
+          span Registro Contable de la Factura de Venta
+        .tabla-a.color-acento-botones
+          table
+            thead
+              tr
+                th.bg-color-35 CÓDIGO
+                th.bg-color-35 CUENTA
+                th.bg-color-35 CC - OP
+                th.bg-color-35 DÉBITO
+                th.bg-color-35 CRÉDITO
+            tbody.bg-color-white
+              tr
+                td 612014
+                td ELABORACIÓN OTROS PROD. ALIMENTICIOS
+                td 22
+                td $63.967.600
+                td -
+              tr
+                td 143014
+                td PRODUCTOS ALIMENTICIOS
+                td 22
+                td -
+                td $63.967.600
+    
+    div.bg-color-6.p-4.text-center.tarjeta.mb-5
+      p.mb-0 Reconocimiento de las facturas de servicios públicos pendientes para poder cerrar la cuenta de control de costos indirectos de fabricación.
+
+    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg-color-11")
+      div(titulo="Factura de Venta de Servicio de Energía").px-5
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 22.
+          span Factura de Venta de Servicio de Energía
+        figure.mb-5
+          img(src="@/assets/curso/temas/tema1/48.svg", alt="Factura de venta del servicio de energía emitida por ENEL Codensa a Empanadazo LTDA, que incluye fecha de emisión, concepto del servicio prestado durante septiembre de 2020, valor subtotal, IVA y total a pagar.  ")
+      
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 39.
+          span Reconocimiento servicios públicos de producción
+        .tabla-a.color-acento-botones
+          table
+            thead
+              tr
+                th.bg-color-35 CÓDIGO
+                th.bg-color-35 CUENTA
+                th.bg-color-35 CC-OP
+                th.bg-color-35 DÉBITO
+                th.bg-color-35 CRÉDITO
+            tbody.bg-color-white
+              tr
+                td 733530
+                td SERVICIO ENERGÍA
+                td 22
+                td $400.000
+                td -
+              tr
+                td 233550
+                td SERVICIOS PÚBLICOS
+                td 22
+                td -
+                td $400.000
+      div(titulo="Factura de venta de servicio de acueducto y alcantarillado").px-5
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 23.
+          span Factura de venta de servicio de acueducto y alcantarillado
+        figure.mb-5
+          img(src="@/assets/curso/temas/tema1/49.svg", alt="Factura de venta del servicio de acueducto y alcantarillado emitida a Empanadazo LTDA, con fecha de emisión, detalle del concepto correspondiente al mes de septiembre de 2020, valor subtotal, IVA y total a pagar. ")
+      
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 40.
+          span Reconocimiento servicios públicos de producción
+        .tabla-a.color-acento-botones
+          table
+            thead
+              tr
+                th.bg-color-35 CÓDIGO
+                th.bg-color-35 CUENTA
+                th.bg-color-35 CC-OP
+                th.bg-color-35 DÉBITO
+                th.bg-color-35 CRÉDITO
+            tbody.bg-color-white
+              tr
+                td 733525
+                td SERVICIO ACUEDUCTO
+                td 22
+                td $300.000
+                td -
+              tr
+                td 233550
+                td SERVICIOS PÚBLICOS
+                td 22
+                td -
+                td $300.000
+      div(titulo="Factura de Venta de Servicio de Gas Natural").px-5
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 24.
+          span Factura de Venta de Servicio de Gas Natural
+        figure.mb-5
+          img(src="@/assets/curso/temas/tema1/50.svg", alt="Factura de venta del servicio de gas natural emitida a Empanadazo LTDA, con fecha de emisión, detalle del servicio correspondiente al mes de septiembre de 2020, valor subtotal, IVA y total a pagar.")
+      
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 41.
+          span Reconocimiento servicios públicos de producción
+        .tabla-a.color-acento-botones
+          table
+            thead
+              tr
+                th.bg-color-35 CÓDIGO
+                th.bg-color-35 CUENTA
+                th.bg-color-35 CC-OP
+                th.bg-color-35 DÉBITO
+                th.bg-color-35 CRÉDITO
+            tbody.bg-color-white
+              tr
+                td 733555
+                td SERVICIO GAS
+                td 22
+                td $600.000
+                td -
+              tr
+                td 233550
+                td SERVICIOS PÚBLICOS
+                td 22
+                td -
+                td $600.000
+
+      div(titulo="Factura de Servicio: CLARO").px-5
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 25.
+          span Factura de Servicio: CLARO
+        figure.mb-5
+          img(src="@/assets/curso/temas/tema1/51.svg", alt="Factura de servicio telefónico emitida por Claro a Empanadazo LTDA, correspondiente al periodo del 1 al 30 de septiembre de 2020, que incluye valor subtotal, IVA y total a pagar. ")
+      
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 42.
+          span Reconocimiento de servicios públicos de producción
+        .tabla-a.color-acento-botones
+          table
+            thead
+              tr
+                th.bg-color-35 CÓDIGO
+                th.bg-color-35 CUENTA
+                th.bg-color-35 CC-OP
+                th.bg-color-35 DÉBITO
+                th.bg-color-35 CRÉDITO
+            tbody.bg-color-white
+              tr
+                td 733535
+                td Servicio teléfono
+                td 22
+                td $200.000
+                td -
+              tr
+                td 233550
+                td Servicios públicos
+                td 22
+                td -
+                td $200.000
+
+    .row.justify-content-center.mb-5
+      .col-lg-10(data-aos="fade-up") 
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 43.
+          span Reconocimiento del cierre de la cuenta control de costos indirectos de fabricación (CIF) al producto en proceso
+        .tabla-a.color-acento-botones
+          table
+            thead
+              tr
+                th.bg-color-35 CÓDIGO
+                th.bg-color-35 CUENTA
+                th.bg-color-35 CC-OP
+                th.bg-color-35 DÉBITO
+                th.bg-color-35 CRÉDITO
+            tbody.bg-color-white
+              tr
+                td 141015
+                td Productos en proceso
+                td 1001
+                td $10.760.115
+                td -
+              tr
+                td 739598
+                td Capitalización
+                td 1001
+                td -
+                td $10.760.115
+
+    div.bg-color-4.tarjeta.px-4.py-3.mb-5
+      h4.mb-0 Análisis de variación entre CIF aplicado y CIF real
+
+    p.mb-5 Para realizar el ajuste proporcional, se analizan los auxiliares de las cuentas relacionadas con productos en proceso y servicios contratados:  
+
+    .row.justify-content-center.mb-5
+      .col-lg-10(data-aos="fade-up")
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 44.
+          span Análisis de variación entre CIF aplicado y CIF real
+        .tabla-a.color-acento-botones
+          table
+            thead
+              tr
+                th.bg-color-35 DETALLE
+                th.bg-color-35 SUB CUENTA
+                th.bg-color-35 NOMBRE DE LA CUENTA
+                th.bg-color-35 CC
+                th.bg-color-35 DÉBITO
+                th.bg-color-35 CRÉDITO
+            tbody.bg-color-white
+              tr
+                td Traslado inventario PP
+                td 141015
+                td Productos en proceso
+                td 1001
+                td -
+                td $10.911.247
+              tr
+                td Capitalización CIF
+                td 141015
+                td Productos en proceso
+                td 1001
+                td $10.760.115
+                td -
+              tr
+                td Capitalización serv. cont.
+                td 141020
+                td Productos en proceso
+                td 1001
+                td $100.000
+                td -
+
+    .row.justify-content-center.mb-5.align-items-center
+      .col-lg-4(data-aos="fade-left")
+        ul.lista-ul--color.ms-4.mb-0
+          li.d-flex.bg-color-9.p-3
+            i.fas.fa-chevron-right
+            p.mb-0 <b>CIF reales:</b> $10.860.115
+          li.d-flex.bg-color-9.p-3
+            i.fas.fa-chevron-right
+            p.mb-0 <b>Tasa CIF aplicada:</b> $10.911.247
+          li.d-flex.bg-color-9.p-3
+            i.fas.fa-chevron-right
+            p.mb-0 <b>Mayor CIF aplicado:</b> $51.132
+      .col-lg-6
+        figure
+          img(src="@/assets/curso/temas/tema1/52.png", data-aos="zoom-in")
+        
+    .titulo-sexto.color-acento-contenido
+      h5 Tabla 45.
+      span Proporcionalidad de distribución de la variación
+    .tabla-a.color-acento-botones.mb-5
+      table
+        thead
+          tr
+            th.bg-color-35 DETALLE
+            th.bg-color-35 SUB CUENTA
+            th.bg-color-35 NOMBRE DE LA CUENTA
+            th.bg-color-35 CC
+            th.bg-color-35 DÉBITO
+            th.bg-color-35 CRÉDITO
+        tbody.bg-color-white
+          tr
+            td Traslado inventario PP
+            td 143014
+            td Productos alimenticios
+            td 1001
+            td $79.959.436
+            td -
+          tr
+            td Costo venta empanadas
+            td 612014
+            td Elaboración
+            td 22
+            td $63.967.600
+            td -
+          tr
+            td Costo venta empanadas
+            td 143014
+            td Productos alimenticios
+            td 22
+            td -
+            td $63.967.600
+
+    .row.justify-content-center.mb-5
+      .col-lg-8(data-aos="fade-up")
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 46.
+          span Distribución del mayor CIF aplicado
+        .tabla-a.color-acento-botones
+          table
+            thead
+              tr
+                th.bg-color-35 CONCEPTO
+                th.bg-color-35 VALOR
+                th.bg-color-35 %
+                th.bg-color-35 AJUSTE
+            tbody.bg-color-white
+              tr
+                td Saldo inventario producto terminado
+                td $15.991.836
+                td 20%
+                td $10.226
+              tr
+                td Costo de venta MFE
+                td $63.967.600
+                td 80%
+                td $40.906
+              tr
+                td Total
+                td $79.959.436
+                td -
+                td $51.132
+    
+    .row.justify-content-center.mb-5
+      .col-lg-8(data-aos="fade-up")
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 47.
+          span Reconocimiento del ajuste del mayor CIF aplicado
+        .tabla-a.color-acento-botones
+          table
+            thead
+              tr
+                th.bg-color-35 CÓDIGO
+                th.bg-color-35 CUENTA
+                th.bg-color-35 CC-OP
+                th.bg-color-35 DÉBITO
+                th.bg-color-35 CRÉDITO
+            tbody.bg-color-white
+              tr
+                td 141015
+                td Productos en proceso
+                td 1001
+                td $51.132
+                td -
+              tr
+                td 143014
+                td Productos alimenticios
+                td 1001
+                td -
+                td $10.226
+              tr
+                td 612014
+                td Elaboración de alimentos
+                td 1001
+                td -
+                td $40.906
+
+    p.mb-5 De esta forma se cumple el proceso del sistema de costos por órdenes de producción.
+
+    .titulo-con-imagen.mb-5(data-aos="fade-right")
+      .titulo-con-imagen__fondo
+        img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
+        h3.titulo-con-imagen__texto  Costos por procesos
+    
+    .bg-color-27.mb-5(data-aos="fade-up")
+      .row.justify-content-center.align-items-center
+        .col-lg-auto.mb-3.mb-lg-0
+          figure
+            img(src='@/assets/curso/temas/tema1/54.png', alt='')
+        .col-lg
+          .p-4
+            p.mb-0(data-aos="fade-up") Los costos por procesos es otro de los sistemas utilizados en la industria, en el cual se desarrolla la producción a gran escala, estandarizada y mecanizada, lo que facilita el montaje de líneas de producción para cada uno de los procesos, permitiendo la acumulación de cada uno de los elementos del costo por cada proceso requerido. Para la asignación de los costos se tendrá en cuenta la producción por departamentos o centros de costos.
+
+    .bg-full-width.bg-color-37
+      .px-4.px-md-5.pb-md-3
+        .row.justify-content-center.mb-5
+          .col-lg-8(data-aos="fade-up")
+            div.bg-color-35.p-3
+              h4.mb-0.text-center Las características de los costos por procesos son: 
+            div.bg-color-white.p-4
+              PasosA.color-acento-contenido.mb-5(tipo="n")
+                .row.align-items-center
+                  .col-md.mb-4.mb-md-0
+                    p Los costos por procesos son característicos de las empresas que fabrican grandes cantidades de productos de consumo masivo.
+                  .col-md-auto
+                    figure
+                      img(src='@/assets/curso/temas/tema1/55.svg', style="max-width: 95px",  alt='Texto que describa la imagen')
+
+                .row.align-items-center
+                  .col-md-auto.mb-4.mb-md-0
+                    figure
+                      img(src='@/assets/curso/temas/tema1/56.svg', style="max-width: 95px",  alt='Texto que describa la imagen')
+                  .col-md.pst
+                    p Los costos se acumulan y reconocen por cada uno de los departamentos o centros de costos que requiera el proceso de producción.
+                .row.align-items-center
+                  .col-md.mb-4.mb-md-0
+                    p Contablemente, se requiere, por cada departamento, el control de cada uno de los elementos del costo.
+                  .col-md-auto
+                    figure
+                      img(src='@/assets/curso/temas/tema1/57.svg', style="max-width: 95px",  alt='Texto que describa la imagen')
+
+                .row.align-items-center
+                  .col-md-auto.mb-4.mb-md-0
+                    figure
+                      img(src='@/assets/curso/temas/tema1/58.svg', style="max-width: 95px",  alt='Texto que describa la imagen')
+                  .col-md.pst
+                    p Para cada departamento o centro de costos de producción, se manejan los conceptos de unidades iniciales en proceso, unidades recibidas, unidades terminadas, unidades transferidas a otro departamento, unidades dañadas, unidades terminadas y no transferidas.
+                .row.align-items-center
+                  .col-md.mb-4.mb-md-0
+                    p Para la producción en proceso, se maneja el concepto de unidades equivalentes, para lo cual el jefe de producción indica el porcentaje de materia prima directa, el porcentaje de mano de obra directa aplicada al cierre del ejercicio y el costo indirecto de fabricación.
+                  .col-md-auto
+                    figure
+                      img(src='@/assets/curso/temas/tema1/62.svg', style="max-width: 95px",  alt='Texto que describa la imagen')
+
+                .row.align-items-center
+                  .col-md-auto.mb-4.mb-md-0
+                    figure
+                      img(src='@/assets/curso/temas/tema1/61.svg', style="max-width: 95px",  alt='Texto que describa la imagen')
+                  .col-md.pst
+                    p Los costos unitarios se determinan por departamentos en cada periodo.
+                .row.align-items-center
+                  .col-md.mb-4.mb-md-0
+                    p Los costos de los productos terminados y transferidos de un departamento se transfieren al siguiente departamento como costos recibidos, para adicionarles los costos incurridos en ese departamento. Cuando se termina el producto en el último departamento, se toman los costos totales acumulados durante el proceso por cada departamento y se dividen entre las unidades terminadas para establecer el costo unitario.
+                  .col-md-auto
+                    figure
+                      img(src='@/assets/curso/temas/tema1/59.svg', style="max-width: 95px",  alt='Texto que describa la imagen')
+
+                .row.align-items-center
+                  .col-md-auto.mb-4.mb-md-0
+                    figure
+                      img(src='@/assets/curso/temas/tema1/60.svg', style="max-width: 95px",  alt='Texto que describa la imagen')
+                  .col-md.pst
+                    p Se requiere un adecuado control de cada uno de los elementos del costo en cada departamento para adelantar estrategias de mejoramiento.
+        p.mb-5 Para el proceso de costos por proceso, es importante tener en cuenta las siguientes etapas o pasos a seguir:
+    
+    .bg-full-width.bg-fondo-slider.mb-5
+      .p-4.p-md-5
+        SlyderA(tipo="b").bg-white.p-4.tarjeta
+          .row.align-items-center.p-4.p-md-5
+            .col-lg-5.order-2
+              figure
+                img(src="@/assets/curso/temas/tema1/61.png")
+            .col-lg-7.order-1.mb-3.mb-lg-0
+              h5 Inicial
+              ul.lista-ul--color.mb-0
+                li.mb-3.d-flex
+                  i.fas.fa-chevron-right
+                  p.mb-0 Se establecen las unidades a producir. 
+                li.mb-3.d-flex
+                  i.fas.fa-chevron-right
+                  p.mb-0 Se asignan responsabilidades.
+                li.mb-3.d-flex
+                  i.fas.fa-chevron-right
+                  p.mb-0 Se limitan las funciones por departamento o centro.
+    
+          .row.align-items-center.p-4.p-md-5
+            .col-lg-5.order-2
+              figure
+                img(src="@/assets/curso/temas/tema1/62.png")
+            .col-lg-7.order-1.mb-3.mb-lg-0
+              h5 Actividades de operación
+              p Se define la programación para el proceso de producción, como son las cantidades requeridas, tiempo y plazos; durante el proceso, se deben llevar controles de los registros de las unidades producidas y mantener un informe actualizado y relevante de los avances de la producción.
+          .row.align-items-center.p-4.p-md-5
+            .col-lg-5.order-2
+              figure
+                img(src="@/assets/curso/temas/tema1/63.png")
+            .col-lg-7.order-1.mb-3.mb-lg-0
+              h5 Final 
+              p Se evalúan y determinan los costos; se concluye el proceso de acuerdo con el informe de producción; y se establecen o sugieren acciones que mejoren los procesos de producción, ya sea en tiempo o producto.  
+    
+    div.bg-color-4.tarjeta.px-4.py-3.mb-5
+      h4.mb-0 Ejemplo:
+    
+    .row.mb-5
+      .col-lg-4.order-2
+        figure
+          img(src="@/assets/curso/temas/tema1/64.svg", data-aos="zoom-in")
+      .col-lg-8.order-1.mb-3.mb-lg-0
+        .bg-color-9.p-3.tarjeta.mb-3
+          .row.align-items-center
+            .col-lg-7
+              p(data-aos="fade-left") Durante el mes de mayo del año 20XX, en el departamento 1 de la empresa, fueron puestas 4.000 unidades en proceso. Los costos incurridos para el mes fueron:
+            .col-lg-5
+              ul.lista-ul--color.mb-0
+                li.mb-3.d-flex.bg-color-white.p-3.tarjeta
+                  i.fas.fa-chevron-right
+                  p.mb-0 <b>Materiales</b> $4.000.000 
+                li.mb-3.d-flex.bg-color-white.p-3.tarjeta
+                  i.fas.fa-chevron-right
+                  p.mb-0 <b>Mano de obra</b> $2.000.000 
+                li.mb-3.d-flex.bg-color-white.p-3.tarjeta
+                  i.fas.fa-chevron-right
+                  p.mb-0 <b>Costos indirectos de fabricación</b> $500.000
+        .bg-color-9.p-4.tarjeta(data-aos="fade-left")
+            p.mb-0 A finalizar el mes de mayo, se terminaron 2.000 unidades y se trasladaron al departamento 2.
+            p.mb-0 Los costos por procesos buscan determinar qué parte de los $4.000.000 de materiales, $2.000.000 de mano de obra y $500.000 de costos indirectos de fabricación, se aplicaron a las 2.000 unidades producidas y transferidas al departamento 2. Por lo tanto, cada departamento deberá preparar un informe sobre el costo de producción.
+    
+    p.mb-5 Este sistema de costos es apropiado para las entidades que están estructuradas por departamentos, como la ensambladora de vehículos.
+    
+    .titulo-con-imagen.mb-5(data-aos="fade-right")
+      .titulo-con-imagen__fondo
+        img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
+        h3.titulo-con-imagen__texto  Costos por actividades o ABC 
+    
+    p.mb-5 Los sistemas de costos ABC (<em>Activity Based Costing</em>) permiten la distribución de los costos indirectos de fabricación (CIF) de acuerdo con las actividades realizadas. Es un método en el que se asignan costos primero a las actividades, luego a los productos.
+
+    .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5.mb-5
+      .bloque-texto-g__img(
+        :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/65.png')})`}"
+      )
+      .bloque-texto-g__texto.p-4
+        p.mb-0 El sistema de costos ABC es una herramienta de carácter estratégico con la cual se pueden sustentar las decisiones gerenciales y se fundamenta en los aportes teóricos de Porter (1998) y lo establecido por Miller y Vollman (1985). Por otro lado, han existido diversos autores que han tratado de mencionar las características de los sistemas de costos basados en actividades; no obstante, todos giran alrededor de un común denominador: los sistemas de costos basados en actividades, que propenden por la división de las organizaciones en las diferentes actividades necesarias para una mejor asignación de los costos indirectos de fabricación a los productos o servicios característicos del objeto social de la empresa.
 
 </template>
 
