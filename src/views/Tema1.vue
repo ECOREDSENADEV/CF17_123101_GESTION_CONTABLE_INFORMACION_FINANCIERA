@@ -19,7 +19,7 @@
     .titulo-sexto.color-acento-contenido
       h5 Figura 1.
       span Tipos de costos
-    .row.justify-content-center.bg-color-33.p-5.tarjeta
+    .row.justify-content-center.bg-color-33.p-5.tarjeta.mb-5
       .col-lg-8
         figure
           img(src="@/assets/curso/temas/tema1/1.svg", data-aos="zoom-in", alt="Diagrama sobre tipos de costos que los clasifica en tres categorías: según su comportamiento (costos fijos, variables y semivariables), según los factores de producción y productos (costos indirectos y directos), y según su comportamiento con detalle de costos de mano de obra, materia prima, financieros, de distribución y tributarios.  ")
@@ -28,9 +28,9 @@
 
     .row.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-1 
-      .col-lg-auto
+      .col-auto
         img(src="@/assets/curso/temas/tema1/2.svg").mx-auto
-      .col-lg
+      .col
         p.mb-0 Los tipos de costos de acuerdo con su comportamiento hacen referencia a los costos fijos, costos variables y costos semivariables.
     
     .bg-full-width.bg-fondo-slider.mb-5
@@ -61,9 +61,9 @@
     
     .row.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-1 
-      .col-lg-auto
+      .col-auto
         img(src="@/assets/curso/temas/tema1/6.svg").mx-auto
-      .col-lg
+      .col
         p.mb-0 Los tipos de costos según factores de producción y productos hacen referencia a los costos directos y los costos indirectos de fabricación.
     
     .bg-full-width.bg-fondo-slider.mb-5
@@ -88,9 +88,9 @@
 
     .row.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-1 
-      .col-lg-auto
+      .col-auto
         img(src="@/assets/curso/temas/tema1/9.svg").mx-auto
-      .col-lg
+      .col
         p.mb-0 Los tipos de costos según su naturaleza, como los costos de mano de obra, materia prima, costos financieros, costos de distribución y costos tributarios:
     .bg-full-width.bg-fondo-slider.mb-5
       .p-4.p-md-5
@@ -228,7 +228,7 @@
     .bg-color-34.tarjeta.mb-5
       .px-4.px-md-5.py-4
         .row.align-items-center
-          .col-lg-auto
+          .col-lg-auto.mb-3.mb-lg-0
             img(src="@/assets/curso/temas/tema1/19.svg", style="max-width: 140px").mx-auto
           .col-lg
             p A estos costos hay que agregarles los costos indirectos de fabricación y se obtiene el total del valor de los costos de las órdenes de producción. 
@@ -695,7 +695,7 @@
     
     p.mb-5 Con el fin de dar cumplimiento al proceso de sistema de costos por órdenes de producción, se debe recurrir a los soportes que permiten identificar cada uno de los procesos; ellos son: 
 
-    TabsC.color-acento-contenido
+    TabsC.color-acento-contenido.mb-5
       .py-3.py-md-4(titulo="Orden de producción").bg-color-33.p-5
         p.mb-5 Es un formato que contiene identificación de la empresa fabricante y del cliente; describe el producto a fabricar con sus características específicas, fecha de inicio de la producción, fecha de entrega del producto, y espacios específicos para identificar cada uno de los elementos del costo que se cargarán a dicha orden de producción; soportado por requisición de materia prima directa e insumos,  controles de tiempo de mano de obra directa y otros costos indirectos de fabricación cargados a dicha orden, generando un total por elemento del costo y un gran total del costo de dicha orden de producción, con el cual podemos establecer el costo unitario dependiendo de las unidades fabricadas. 
         .titulo-sexto.color-acento-contenido
@@ -728,14 +728,14 @@
     p.mb-5 Con la información suministrada por la ficha técnica, la empresa elabora los presupuestos básicos de producción y preparación de la planta para el inicio del proceso productivo. El proceso inicia con el presupuesto básico, con la proyección de ventas, tomando como base las estadísticas promedio que ha tenido la empresa o el sector industrial respectivo.
 
     .row.justify-content-center
-      .col-lg-5
+      .col-lg-5.mb-3.mb-lg-0
         figure
           img(src='@/assets/curso/temas/tema1/24.png', alt='Texto que describa la imagen')
       .col-lg-5
         .titulo-sexto.color-acento-contenido
           h5 Tabla 12.
           span Presupuesto mensual
-        .tabla-a.color-acento-botones
+        .tabla-a.color-acento-botones.mb-3
           table
             thead
               tr
@@ -1068,7 +1068,7 @@
       .col-lg-12
         div.bg-color-31.px-4.mb-3.tarjeta
           .row.align-items-center
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0(data-aos="fade-right")
               img(src="@/assets/curso/temas/tema1/27.svg", style="max-width: 190px").mx-auto
             .col-lg
               p Se procede a calcular los Costos Indirectos de Fabricación (CIF) fijos de la mano de obra indirecta, según la nómina de presupuesto, teniendo en cuenta toda la normatividad legal vigente.
@@ -1286,7 +1286,7 @@
     p.mb-5 Ahora, se realiza el presupuesto del precio de venta unitario (PVU); para hacerlo hay varias fórmulas, para este ejemplo se aplica la fórmula de margen de contribución (MC), según la política de precios al costo de producción unitario, para obtener:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-6
+      .col-lg-6.mb-3.mb-lg-0
         .titulo-sexto.color-acento-contenido
           h5 Tabla 24.
           span Cálculo del precio de venta unitario (PVU)
@@ -3054,7 +3054,7 @@
               h5 Final 
               p Se evalúan y determinan los costos; se concluye el proceso de acuerdo con el informe de producción; y se establecen o sugieren acciones que mejoren los procesos de producción, ya sea en tiempo o producto.  
     
-    div.bg-color-4.tarjeta.px-4.py-3.mb-5
+    div.bg-color-32.tarjeta.px-4.py-3.mb-5
       h4.mb-0 Ejemplo:
     
     .row.mb-5
@@ -3096,6 +3096,598 @@
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 El sistema de costos ABC es una herramienta de carácter estratégico con la cual se pueden sustentar las decisiones gerenciales y se fundamenta en los aportes teóricos de Porter (1998) y lo establecido por Miller y Vollman (1985). Por otro lado, han existido diversos autores que han tratado de mencionar las características de los sistemas de costos basados en actividades; no obstante, todos giran alrededor de un común denominador: los sistemas de costos basados en actividades, que propenden por la división de las organizaciones en las diferentes actividades necesarias para una mejor asignación de los costos indirectos de fabricación a los productos o servicios característicos del objeto social de la empresa.
+    
+    .row.mb-5
+      .col-lg-5.order-2
+        figure
+          img(src="@/assets/curso/temas/tema1/66.svg", data-aos="zoom-in")
+      .col-lg-7.order-1.mb-3.mb-lg-0
+        p(data-aos="fade-left") El sistema de costos basados en actividades propende por la división de las diferentes actividades necesarias para una mejor asignación de los costos indirectos de fabricación a los productos fabricados en la empresa. El análisis de los beneficios prevé una nueva perspectiva para el examen del comportamiento de los costos indirectos de fabricación. Elimina desperdicios y actividades que no agregan valor al producto.
+        .row.justify-content-center
+          .col-lg-1
+          .col-lg-7
+            div.bg-color-32.tarjeta.px-4.py-3.mb-3
+              h4.mb-0 Objetivos de costos ABC
+            ul.lista-ul--color.mb-0
+              li.mb-3.d-flex.bg-color-12.p-3
+                i.fas.fa-chevron-right
+                p.mb-0 Analizar la rentabilidad. 
+              li.mb-3.d-flex.bg-color-12.p-3
+                i.fas.fa-chevron-right
+                p.mb-0 Reducir los costos.
+              li.mb-3.d-flex.bg-color-12.p-3
+                i.fas.fa-chevron-right
+                p.mb-0 Facilitar la mejora de los procesos.
+    
+    p.mb-5 En los costos ABC intervienen actividades y procesos que deben establecer, cada uno, la aplicabilidad para los ABC. Algunos ejemplos de actividades:
+
+    .row.justify-content-center.mb-5
+      .col-sm-6.col-lg-4.mb-4.mb-lg-0
+        //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
+        //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
+        //- estas clases tambien tienen un modificador --borde
+        .tarjeta--boton.bg-color-22.p-4.h-100
+          .row.justify-content-center.mb-3
+            .col-5
+              figure
+                img(src='@/assets/curso/temas/tema1/67.svg', alt='Texto que describa la imagen')
+
+          h4.text-center.bg-color-29.p-3 Eemplos de actividades
+          ul.lista-ul--color.mb-0
+            li.mb-0.d-flex
+              i.fas.fa-chevron-right
+              p.mb-0 Negociar los precios.  
+            li.mb-0.d-flex
+              i.fas.fa-chevron-right
+              p.mb-0 Clasificar proveedores.
+            li.mb-0.d-flex
+              i.fas.fa-chevron-right
+              p.mb-0 Planificar la producción. 
+            li.mb-0.d-flex
+              i.fas.fa-chevron-right
+              p.mb-0 Facturar. 
+            li.mb-0.d-flex
+              i.fas.fa-chevron-right
+              p.mb-0 Gestionar cobros.
+            li.mb-0.d-flex
+              i.fas.fa-chevron-right
+              p.mb-0 Diseñar nuevos productos. 
+            li.mb-0.d-flex
+              i.fas.fa-chevron-right
+              p.mb-0 Recepcionar las mercancías o materiales.  
+
+      .col-sm-6.col-lg-4.mb-4.mb-lg-0
+        //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
+        //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
+        //- estas clases tambien tienen un modificador --borde
+        .tarjeta--boton.bg-color-22.p-4.h-100
+          .row.justify-content-center.mb-3
+            .col-5
+              figure
+                img(src='@/assets/curso/temas/tema1/68.svg', alt='Texto que describa la imagen')
+
+          h4.text-center.bg-color-29.p-3 Ejemplos de procesos
+          ul.lista-ul--color.mb-0
+            li.mb-0.d-flex
+              i.fas.fa-chevron-right
+              p.mb-0 Compras  
+            li.mb-0.d-flex
+              i.fas.fa-chevron-right
+              p.mb-0 Ventas
+            li.mb-0.d-flex
+              i.fas.fa-chevron-right
+              p.mb-0 Finanzas
+            li.mb-0.d-flex
+              i.fas.fa-chevron-right
+              p.mb-0 Personal  
+            li.mb-0.d-flex
+              i.fas.fa-chevron-right
+              p.mb-0 Investigación 
+            li.mb-0.d-flex
+              i.fas.fa-chevron-right
+              p.mb-0 Planeación
+      .col-sm-6.col-lg-4.mb-4.mb-lg-0
+        //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
+        //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
+        //- estas clases tambien tienen un modificador --borde
+        .tarjeta--boton.bg-color-11.p-4.h-100
+          figure.mt-4
+            img(src='@/assets/curso/temas/tema1/69.svg', alt='Texto que describa la imagen')
+    
+    p.mb-5 En la siguiente gráfica se representan los recursos directos e indirectos en los costos ABC.
+    
+    .row.justify-content-center
+      .col-lg-10(data-aos="fade-up")
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 26.
+          span Clasificación de recursos directos e indirectos en la elaboración de ropa de trabajo
+        figure.mb-5
+          img(src="@/assets/curso/temas/tema1/70.svg", alt="Diagrama sobre la clasificación de recursos directos e indirectos en la elaboración de ropa de trabajo, que organiza los recursos directos en materia prima y mano de obra, y los recursos indirectos en pasos como identificación de procesos, obtención de actividades, de inductores del costo y cálculo del costo indirecto, todos dirigidos al producto final. ")
+
+    .bg-full-width.bg-fondo-slider.mb-5
+      .p-4.p-md-5
+        SlyderA(tipo="b").bg-white.p-4.tarjeta
+          .row.align-items-center.p-4.p-md-5
+            .col-lg-5.order-2
+              figure
+                img(src="@/assets/curso/temas/tema1/71.png")
+            .col-lg-7.order-1.mb-3.mb-lg-0
+              h5 Cantidades producidas
+              .titulo-sexto.color-acento-contenido
+                h5 Tabla 48.
+                span Cantidades producidas
+              .tabla-a.color-acento-botones
+                table
+                  thead
+                    tr
+                      th.bg-color-35 Producto
+                      th.bg-color-35 Cantidad
+                      th.bg-color-35 Unidad de medida
+                  tbody.bg-color-white
+                    tr
+                      td Faldas
+                      td 5.000
+                      td Unidades
+                    tr
+                      td Camisas
+                      td 8.000
+                      td Unidades
+
+          .row.align-items-center.p-4.p-md-5
+            .col-lg-5.order-2
+              figure
+                img(src="@/assets/curso/temas/tema1/72.png")
+            .col-lg-7.order-1.mb-3.mb-lg-0
+              h5 Valor de materia prima por unidad
+              .titulo-sexto.color-acento-contenido
+                h5 Tabla 49.
+                span Valor de materia prima por unidad
+              .tabla-a.color-acento-botones
+                table
+                  thead
+                    tr
+                      th.bg-color-35 Producto
+                      th.bg-color-35 Valor unitario (materia prima)
+                  tbody.bg-color-white
+                    tr
+                      td Faldas
+                      td $5.000,00
+                    tr
+                      td Camisas
+                      td $6.000,00
+
+          .row.align-items-center.p-4.p-md-5
+            .col-lg-5.order-2
+              figure
+                img(src="@/assets/curso/temas/tema1/73.png")
+            .col-lg-7.order-1.mb-3.mb-lg-0
+              h5 Valor de la mano de obra por unidad 
+              .titulo-sexto.color-acento-contenido
+                h5 Tabla 50.
+                span Valor de la mano de obra por unidad
+              .tabla-a.color-acento-botones
+                table
+                  thead
+                    tr
+                      th.bg-color-35 Producto
+                      th.bg-color-35 Valor unitario (mano de obra)
+                  tbody.bg-color-white
+                    tr
+                      td Faldas
+                      td $1.800,00
+                    tr
+                      td Camisas
+                      td $1.700,00
+          .row.align-items-center.p-4.p-md-5
+            .col-lg-5.order-2
+              figure
+                img(src="@/assets/curso/temas/tema1/74.png")
+            .col-lg-7.order-1.mb-3.mb-lg-0
+              h5 Tiempo de elaboración (horas hombre por unidad)
+              .titulo-sexto.color-acento-contenido
+                h5 Tabla 51.
+                span Tiempo de elaboración (horas hombre por unidad)
+              .tabla-a.color-acento-botones
+                table
+                  thead
+                    tr
+                      th.bg-color-35 Producto
+                      th.bg-color-35 Horas hombre
+                  tbody.bg-color-white
+                    tr
+                      td Faldas
+                      td 0,45
+                    tr
+                      td Camisas
+                      td 1
+
+          .row.align-items-center.p-4.p-md-5
+            .col-lg-5.order-2
+              figure
+                img(src="@/assets/curso/temas/tema1/75.png")
+            .col-lg-7.order-1.mb-3.mb-lg-0
+              h5 Tiempo de utilización de máquina (horas por unidad)
+              .titulo-sexto.color-acento-contenido
+                h5 Tabla 52.
+                span Tiempo de utilización de máquina (horas por unidad)
+              .tabla-a.color-acento-botones
+                table
+                  thead
+                    tr
+                      th.bg-color-35 Producto
+                      th.bg-color-35 Horas máquina
+                  tbody.bg-color-white
+                    tr
+                      td Faldas
+                      td 0,45
+                    tr
+                      td Camisas
+                      td 1
+    
+    .row.justify-content-center
+      .col-lg-10
+        .row.align-items-center.mb-5
+          .col-lg-auto
+            img(src="@/assets/curso/temas/tema1/76.svg", style="max-width: 105px").mx-auto
+          .col-lg
+            p Para la elaboración del producto, los costos indirectos (CI) de la empresa corresponden a servicios públicos, arrendamientos, depreciación maquinaria y equipo, entre otros.
+            div.bg-color-39.p-3
+              p.mb-0 Los costos indirectos de fabricación del mes corresponden a: <b>$40.000.000,00</b>
+        p.mb-5 Tener en cuenta el detalle de la materia prima (MP), la mano de obra directa (MOD) por unidad producida o elaborada, horas hombre (HH) y horas máquina (HM) utilizadas en cada unidad:
+        .row.justify-content-center.mb-5
+          .col-lg-10
+            .titulo-sexto.color-acento-contenido
+              h5 Tabla 53.
+              span Costos directos por producto
+            .tabla-a.color-acento-botones.mb-3
+              table
+                thead
+                  tr
+                    th.bg-color-35 Artículo
+                    th.bg-color-35 Producción (unidades)
+                    th.bg-color-35 Materia prima unitaria
+                    th.bg-color-35 Mano de obra unitaria
+                tbody.bg-color-white
+                  tr
+                    td Faldas
+                    td 5.000
+                    td $5.000,00
+                    td $1.800,00
+                  tr
+                    td Camisas
+                    td 8.000
+                    td $6.000,00
+                    td $1.700,00
+            div.bg-color-40.text-center.p-3
+              h5.mb-0 13.000 TOTAL UNIDADES PRODUCIDAS (TUP)
+        
+        p Se realizó la producción de 13.000 unidades, se debe determinar la proporción entre el costo indirecto (CI) y el total de las unidades producidas.
+        h5.mb-5 Costo indirecto de producción (CIP)
+        .row.mb-5.justify-content-center
+          .col-lg-5.mb-3.mb-lg-0
+            figure
+              img(src="@/assets/curso/temas/tema1/77.svg", data-aos="zoom-in")
+          .col-lg-5
+            figure
+              img(src="@/assets/curso/temas/tema1/78.svg", data-aos="zoom-out")
+
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 54.
+          span Cédula método de unidades producidas
+        .tabla-a.color-acento-botones.mb-5
+          table
+            thead
+              tr
+                th.bg-color-35 ARTÍCULO
+                th.bg-color-35 MATERIA PRIMA UNITARIA
+                th.bg-color-35 MANO DE OBRA UNITARIO
+                th.bg-color-35 GASTO INDIRECTO G.I.
+                th.bg-color-35 PRODUCCIÓN UNITARIA
+            tbody.bg-color-white
+              tr
+                td FALDAS
+                td $5.000
+                td $1.800,00
+                td $3.077
+                td $9.876,92
+              tr
+                td CAMISAS
+                td $6.000
+                td $1.700,00
+                td $3.077
+                td $10.776,92
+
+        .row.justify-content-center.mb-5.align-items-center
+          .col-lg-10.mb-3.mb-lg-0
+            .titulo-sexto.color-acento-contenido
+              h5 Tabla 55.
+              span Cédula método del costo de materia prima
+            .tabla-a.color-acento-botones.mb-3
+              table
+                thead
+                  tr
+                    th.bg-color-35 ARTÍCULO
+                    th.bg-color-35 PRODUCCIÓN UNIDADES
+                    th.bg-color-35 MATERIA PRIMA UNITARIA
+                    th.bg-color-35 COSTO TOTAL MATERIA PRIMA CTMP
+                tbody.bg-color-white
+                  tr
+                    td FALDAS
+                    td 5.000
+                    td $5.000
+                    td $25.000.000
+                  tr
+                    td CAMISAS
+                    td 8.000
+                    td $6.000
+                    td $48.000.000
+                  tr
+                    td
+                    td
+                    td TOTAL
+                    td $73.000.000
+          .col-md-6.col-lg-2
+            figure
+              img(src="@/assets/curso/temas/tema1/78-1.svg", data-aos="zoom-in")
+  
+          
+        .row.align-items-center.bg-color-8.p-4.mb-5
+          .col-lg-auto
+            img(src="@/assets/curso/temas/tema1/79.svg", style="max-width: 90px").mx-auto
+          .col-lg
+            p.mb-0 El costo total de la materia prima (MP) es de $15.000. Se asigna una proporción entre el costo indirecto (CI) y el total de las unidades producidas.
+        
+        h5.mb-5 Costo total de materia prima (CTMP)
+        
+        .row.mb-5.justify-content-center.mb-5
+          .col-lg-5.mb-3.mb-lg-0
+            figure
+              img(src="@/assets/curso/temas/tema1/80.svg", data-aos="zoom-in")
+          .col-lg-5
+            figure
+              img(src="@/assets/curso/temas/tema1/81.svg", data-aos="zoom-out")
+        
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 56.
+          span Costeo unitario por producto
+        .tabla-a.color-acento-botones.mb-5
+          table
+            thead
+              tr
+                th.bg-color-35 ARTÍCULO
+                th.bg-color-35 MATERIA PRIMA UNITARIA
+                th.bg-color-35 MANO DE OBRA UNITARIO
+                th.bg-color-35 COSTO MATERIA PRIMA POR UNIDAD
+                th.bg-color-35 PRODUCCIÓN UNITARIA
+            tbody.bg-color-white
+              tr
+                td FALDAS
+                td $5.000
+                td $1.800,00
+                td $2.739,73
+                td $9.539,73
+              tr
+                td CAMISAS
+                td $6.000
+                td $1.700,00
+                td $3.287,67
+                td $10.987,67
+        p.mb-5 El $0,5479 corresponde al costo de materia prima por unidad.
+        .row.justify-content-center.mb-5.align-items-center
+          .col-md-6.col-lg-2.mb-3.mb-lg-0
+            figure
+              img(src="@/assets/curso/temas/tema1/82.svg", data-aos="zoom-in")
+          .col-lg-10
+            .titulo-sexto.color-acento-contenido
+              h5 Tabla 57.
+              span Cédula método de horas hombre.
+            .tabla-a.color-acento-botones
+              table
+                thead
+                  tr
+                    th.bg-color-35 ARTÍCULO
+                    th.bg-color-35 PRODUCCIÓN UNIDADES
+                    th.bg-color-35 HORAS HOMBRE UNITARIAS
+                    th.bg-color-35 COSTO TOTAL MATERIA PRIMA CTMP
+                tbody.bg-color-white
+                  tr
+                    td FALDAS
+                    td 5.000
+                    td $0,50
+                    td $2.500
+                  tr
+                    td CAMISAS
+                    td 8.000
+                    td $1,00
+                    td $8.000
+                  tr
+                    td(colspan="3") TOTAL
+                    td $10.500
+        .row.align-items-center.bg-color-34.px-4.mb-5
+          .col-lg-auto
+            img(src="@/assets/curso/temas/tema1/83.svg", style="max-width: 90px").mx-auto
+          .col-lg
+            p.mb-0 El costo total de la materia prima (MP) es de $15.000. Se asigna una proporción entre el costo indirecto (CI) y el total de las unidades producidas.
+
+        h5.mb-5 El costo total de la materia prima es de $10,250, para lo cual se determina la proporción entre los costos indirectos (CI) y el total de horas hombre usadas.
+        
+        .row.mb-5.justify-content-center.mb-5
+          .col-lg-5.mb-3.mb-lg-0
+            figure
+              img(src="@/assets/curso/temas/tema1/89.svg", data-aos="zoom-in")
+          .col-lg-5
+            figure
+              img(src="@/assets/curso/temas/tema1/90.svg", data-aos="zoom-out")
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 58.
+          span Cédula por método de horas hombre
+        .tabla-a.color-acento-botones.mb-5
+          table
+            thead
+              tr
+                th.bg-color-35 Artículo
+                th.bg-color-35 Materia prima unitaria
+                th.bg-color-35 Mano de obra unitaria
+                th.bg-color-35 Horas hombre unitarias
+                th.bg-color-35 Costo por hora hombre
+                th.bg-color-35 Costo total horas hombre (por unidad)
+            tbody.bg-color-white
+              tr
+                td Faldas
+                td $5.000
+                td $1.800
+                td 0,50
+                td $3.809,52
+                td $8.704,76
+              tr
+                td Camisas
+                td $6.000
+                td $1.700
+                td 1,00
+                td $3.809,52
+                td $11.509,52
+        .row.justify-content-center.mb-5.align-items-center
+          .col-md-6.col-lg-2.order-2
+            figure
+              img(src="@/assets/curso/temas/tema1/84.svg", data-aos="zoom-in")
+          .col-lg-10.order-1.mb-3.mb-lg-0
+            .titulo-sexto.color-acento-contenido
+              h5 Tabla 60.
+              span Cédula por método de horas máquina
+            .tabla-a.color-acento-botones
+              table
+                thead
+                  tr
+                    th.bg-color-35 Artículo
+                    th.bg-color-35 Producción (unidades)
+                    th.bg-color-35 Horas máquina por unidad
+                    th.bg-color-35 Costo total horas máquina
+                tbody.bg-color-white
+                  tr
+                    td Faldas
+                    td 5.000
+                    td 0,50
+                    td $2.500
+                  tr
+                    td Camisas
+                    td 8.000
+                    td 1,00
+                    td $8.000
+                  tr.text-bold
+                    td Total
+                    td -
+                    td -
+                    td $10.500
+        
+        .row.align-items-center.bg-color-27.px-4.mb-5
+          .col-lg-auto
+            img(src="@/assets/curso/temas/tema1/85.svg", style="max-width: 90px").mx-auto
+          .col-lg
+            p.mb-0 Para hallar la proporción que le corresponde al costo horas máquina, se toman los costos indirectos y se dividen en costo horas máquina.
+        
+        .row.mb-5.justify-content-center.mb-5
+          .col-lg-5.mb-3.mb-lg-0
+            figure
+              img(src="@/assets/curso/temas/tema1/91.svg", data-aos="zoom-in")
+          .col-lg-5
+            figure
+              img(src="@/assets/curso/temas/tema1/92.svg", data-aos="zoom-out")
+        
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 60.
+          span Costeo unitario con método de horas máquina
+        .tabla-a.color-acento-botones.mb-5
+          table
+            thead
+              tr
+                th.bg-color-35 Artículo
+                th.bg-color-35 Materia prima unitaria
+                th.bg-color-35 Mano de obra unitaria
+                th.bg-color-35 Horas máquina unitarias
+                th.bg-color-35 Costo por hora máquina
+            tbody.bg-color-white
+              tr
+                td Faldas
+                td $5.000
+                td $1.800
+                td 0,5
+                td $3.809,52
+              tr
+                td Camisas
+                td $6.000
+                td $1.700
+                td 1,0
+                td $3.809,52
+        .row.justify-content-center.mb-5.align-items-center
+          .col-md-6.col-lg-2.mb-3.mb-lg-0
+            figure
+              img(src="@/assets/curso/temas/tema1/86.svg", data-aos="zoom-in")
+          .col-lg-10
+            .titulo-sexto.color-acento-contenido
+              h5 Tabla 61.
+              span Cédula del método del costo de mano de obra directa
+            .tabla-a.color-acento-botones
+              table
+                thead
+                  tr
+                    th.bg-color-35 Artículo
+                    th.bg-color-35 Producción (unidades)
+                    th.bg-color-35 Mano de obra unitaria
+                    th.bg-color-35 Costo mano de obra directa
+                tbody.bg-color-white
+                  tr
+                    td Faldas
+                    td 5.000
+                    td $1.800,00
+                    td $9.000.000
+                  tr
+                    td Camisas
+                    td 8.000
+                    td $1.700,00
+                    td $13.600.000
+                  tr.text-bold
+                    td Total
+                    td -
+                    td -
+                    td $22.600.000
+        p.mb-5 El costo total de la mano de obra directa es de $22,600,000. Se determina la proporción entre los costos indirectos (CI) y el total de costos de mano de obra directa, CIMOD.
+        .row.mb-5.justify-content-center.mb-5
+          .col-lg-5.mb-3.mb-lg-0
+            figure
+              img(src="@/assets/curso/temas/tema1/87.svg", data-aos="zoom-in")
+          .col-lg-5
+            figure
+              img(src="@/assets/curso/temas/tema1/88.svg", data-aos="zoom-out")
+        
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 62.
+          span Costo total unitario considerando asignación adicional por mano de obra
+        .tabla-a.color-acento-botones.mb-5
+          table
+            thead
+              tr
+                th.bg-color-35 Artículo
+                th.bg-color-35 Materia prima unitaria
+                th.bg-color-35 Mano de obra unitaria
+                th.bg-color-35 Asignación por costo de MO (ABC)
+                th.bg-color-35 Total mano de obra por unidad
+            tbody.bg-color-white
+              tr
+                td Faldas
+                td $5.000
+                td $1.800
+                td $3.185,84
+                td $9.985,84
+              tr
+                td Camisas
+                td $6.000
+                td $1.700
+                td $3.008,85
+                td $10.708,85
+
+
+
+
 
 </template>
 
