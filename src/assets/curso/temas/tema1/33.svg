@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160.725" height="514.542" viewBox="0 0 1160.725 514.542">
+  <g id="Grupo_1179005" data-name="Grupo 1179005" transform="translate(-179.326 -16150.872)">
+    <g id="Grupo_1178986" data-name="Grupo 1178986" transform="translate(-73 -3)">
+      <rect id="Rectángulo_406976" data-name="Rectángulo 406976" width="1159" height="40" transform="translate(252.551 16197)" fill="#fd9826"/>
+      <text id="KARDEX" transform="translate(316.457 16222.5)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-30.348" y="0">KARDEX</tspan></text>
+      <g id="Grupo_1178985" data-name="Grupo 1178985" transform="translate(252.5 16232.324)">
+        <path id="Trazado_1034209" data-name="Trazado 1034209" d="M0,0H1159.949V424.421H0Z" transform="translate(0.551 4.676)" fill="#fff"/>
+        <line id="Línea_55" data-name="Línea 55" x1="1160" y2="0.637" transform="translate(0.5 86.039)" fill="none" stroke="#e1e1e1" stroke-width="1"/>
+        <line id="Línea_569" data-name="Línea 569" x1="1159" transform="translate(0.551 159.402)" fill="none" stroke="#e1e1e1" stroke-width="1"/>
+        <path id="Trazado_1034207" data-name="Trazado 1034207" d="M0,0" transform="translate(0.551 311.496)" fill="none" stroke="#e1e1e1" stroke-width="1"/>
+        <path id="Trazado_899679" data-name="Trazado 899679" d="M1160,0" transform="translate(0.5 159.039)" fill="none" stroke="#e1e1e1" stroke-width="1"/>
+        <text id="REFERENCIA" transform="translate(22.585 36.357)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-46.219" y="17">REFERENCIA</tspan></text>
+        <text id="_5566" data-name="5566" transform="translate(218.585 39.586)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-17.969" y="17">5566</tspan></text>
+        <text id="PRODUCTO_" data-name="PRODUCTO " transform="translate(323.585 39.586)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-41.164" y="17">PRODUCTO </tspan></text>
+        <text id="ARROZ_DIANA" data-name="ARROZ DIANA" transform="translate(473.951 39.586)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-50.813" y="17">ARROZ DIANA</tspan></text>
+        <text id="CANTIDAD_MÍNIMA_" data-name="CANTIDAD
+MÍNIMA " transform="translate(663.341 30.586)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-38.789" y="17">CANTIDAD</tspan><tspan x="-29.242" y="35">MÍNIMA </tspan></text>
+        <text id="_1.000.000" data-name="1.000.000" transform="translate(765.546 39.586)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-35.656" y="17">1.000.000</tspan></text>
+        <text id="CANTIDAD_MÁXIMA" data-name="CANTIDAD
+MÁXIMA" transform="translate(881.585 30.586)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-38.789" y="17">CANTIDAD</tspan><tspan x="-31.598" y="35">MÁXIMA</tspan></text>
+        <path id="Trazado_1034208" data-name="Trazado 1034208" d="M0,0H1160V72H0Z" transform="translate(0.551 86.539)" fill="#f6f6f6"/>
+        <text id="PROVEEDORES" transform="translate(22.585 111.676)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">PROVEEDORES</tspan></text>
+        <text id="UNIDAD" transform="translate(881.585 111.676)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="10.143" y="17">UNIDAD</tspan></text>
+        <text id="GRAMO" transform="translate(1034.562 111.676)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">GRAMO</tspan></text>
+        <text id="DISTRIBUIDORA_TOTAL_LTDA" data-name="DISTRIBUIDORA TOTAL LTDA" transform="translate(317.829 114.676)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">DISTRIBUIDORA TOTAL LTDA</tspan></text>
+        <line id="Línea_561" data-name="Línea 561" x1="0.159" y2="82.363" transform="translate(303.5 4.676)" fill="none" stroke="#e1e1e1" stroke-width="1"/>
+        <line id="Línea_562" data-name="Línea 562" y2="81.363" transform="translate(426.659 4.676)" fill="none" stroke="#e1e1e1" stroke-width="1"/>
+        <line id="Línea_564" data-name="Línea 564" x2="0.549" y2="154.363" transform="translate(648.61 4.676)" fill="none" stroke="#e1e1e1" stroke-width="1"/>
+        <line id="Línea_566" data-name="Línea 566" x1="0.086" y2="154.363" transform="translate(854.596 4.676)" fill="none" stroke="#e1e1e1" stroke-width="1"/>
+        <line id="Línea_567" data-name="Línea 567" x2="0.596" y2="155.363" transform="translate(982.904 4.676)" fill="none" stroke="#e1e1e1" stroke-width="1"/>
+        <line id="Línea_570" data-name="Línea 570" x1="1159" transform="translate(0.551 201.039)" fill="none" stroke="#e1e1e1" stroke-width="1"/>
+        <rect id="Rectángulo_406978" data-name="Rectángulo 406978" width="1159.551" height="44.895" transform="translate(0.5 157.465)" fill="#fd9826"/>
+        <rect id="Rectángulo_406979" data-name="Rectángulo 406979" width="1159.551" height="44.895" transform="translate(0.275 202.359)" fill="#e8e8e8"/>
+        <rect id="Rectángulo_406980" data-name="Rectángulo 406980" width="1159.551" height="44.895" transform="translate(-0.174 300.406)" fill="#f6f6f6"/>
+        <rect id="Rectángulo_406982" data-name="Rectángulo 406982" width="1159.551" height="44.895" transform="translate(-0.174 390.195)" fill="#f6f6f6"/>
+        <text id="ENTRADA" transform="translate(325.001 170.586)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-36.168" y="17">ENTRADA</tspan></text>
+        <text id="SALIDA" transform="translate(606.11 170.586)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-27.547" y="17">SALIDA</tspan></text>
+        <text id="SALDO" transform="translate(901.562 170.586)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-25.355" y="17">SALDO</tspan></text>
+        <line id="Línea_52" data-name="Línea 52" y2="430.083" transform="translate(169.342 4.676)" fill="none" stroke="#e1e1e1" stroke-width="1"/>
+        <line id="Línea_568" data-name="Línea 568" y2="232.918" transform="translate(303.5 202.039)" fill="none" stroke="#e1e1e1" stroke-width="1"/>
+        <line id="Línea_563" data-name="Línea 563" y2="275.003" transform="translate(549.5 160.086)" fill="none" stroke="#e1e1e1" stroke-width="1"/>
+        <line id="Línea_565" data-name="Línea 565" x1="1.769" y2="430.282" transform="translate(747.5 4.676)" fill="none" stroke="#e1e1e1" stroke-width="1"/>
+        <text id="FECHA" transform="translate(22.585 216.586)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-25.223" y="17">FECHA</tspan></text>
+        <text id="DESCRIPCIÓN" transform="translate(175.585 216.586)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-51.188" y="17">DESCRIPCIÓN</tspan></text>
+        <text id="CANTIDAD" transform="translate(306.585 216.586)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-39.328" y="17">CANTIDAD</tspan></text>
+        <text id="VALOR_TOTAL" data-name="VALOR
+ TOTAL" transform="translate(449.585 207.586)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-25.031" y="17">VALOR</tspan><tspan x="-25.984" y="35" xml:space="preserve"> TOTAL</tspan></text>
+        <text id="VALOR_TOTAL-2" data-name="VALOR
+ TOTAL" transform="translate(662.585 207.586)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-25.031" y="17">VALOR</tspan><tspan x="-25.984" y="35" xml:space="preserve"> TOTAL</tspan></text>
+        <text id="VALOR_TOTAL-3" data-name="VALOR TOTAL" transform="translate(1026.147 216.586)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-51.016" y="17">VALOR TOTAL</tspan></text>
+        <text id="CANTIDAD-2" data-name="CANTIDAD" transform="translate(556.585 216.586)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-39.328" y="17">CANTIDAD</tspan></text>
+        <text id="CANTIDAD-3" data-name="CANTIDAD" transform="translate(761.585 216.586)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-39.328" y="17">CANTIDAD</tspan></text>
+        <text id="VALOR_UNITARIO_PP" data-name="VALOR UNITARIO PP" transform="translate(871.585 207.586)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-25.031" y="17">VALOR </tspan><tspan x="-48.383" y="35">UNITARIO PP</tspan></text>
+        <line id="Línea_571" data-name="Línea 571" y2="187.92" transform="translate(426.5 247.039)" fill="none" stroke="#e1e1e1" stroke-width="1"/>
+        <line id="Línea_572" data-name="Línea 572" y2="232.919" transform="translate(649.5 202.039)" fill="none" stroke="#e1e1e1" stroke-width="1"/>
+        <line id="Línea_574" data-name="Línea 574" y2="234.051" transform="translate(984.28 202.039)" fill="none" stroke="#e1e1e1" stroke-width="1"/>
+        <line id="Línea_573" data-name="Línea 573" y2="232.541" transform="translate(854.597 202.039)" fill="none" stroke="#e1e1e1" stroke-width="1"/>
+        <text id="_343.00_-_-_-" data-name="$343.00
+-
+-
+-" transform="translate(868.585 264.586)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-58.117" y="17">$343.00</tspan><tspan x="-4.414" y="63">-</tspan><tspan x="-4.414" y="109">-</tspan><tspan x="-4.414" y="155">-</tspan></text>
+        <text id="_01_09_2020_-_-_-" data-name="01/09/2020
+-
+-
+-" transform="translate(22.585 264.587)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-42.531" y="17">01/09/2020</tspan><tspan x="-2.207" y="63">-</tspan><tspan x="-2.207" y="109">-</tspan><tspan x="-2.207" y="155">-</tspan></text>
+        <g id="Grupo_1180880" data-name="Grupo 1180880" transform="translate(-2 4.547)">
+          <text id="FC0154_DISTRIB_TOTAL_" data-name="FC0154
+ DISTRIB TOTAL " transform="translate(177.585 253.039)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-27.598" y="17">FC0154</tspan><tspan x="-56.875" y="35" xml:space="preserve"> DISTRIB TOTAL </tspan></text>
+          <text id="TOTAL" transform="translate(177.585 403.143)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-24.227" y="17">TOTAL</tspan></text>
+          <text id="_-_-" data-name="-
+-" transform="translate(237.585 325.449)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-2.207" y="0">-</tspan><tspan x="-2.207" y="46">-</tspan></text>
+        </g>
+        <text id="_-_-_-_-" data-name="-
+-
+-
+-" transform="translate(599.585 279.587)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-2.207" y="0">-</tspan><tspan x="-2.207" y="46">-</tspan><tspan x="-2.207" y="92">-</tspan><tspan x="-2.207" y="138">-</tspan></text>
+        <text id="_12.500_-_-_-" data-name="12.500
+-
+-
+-" transform="translate(306.585 264.587)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-24.566" y="17">12.500</tspan><tspan x="-2.207" y="63">-</tspan><tspan x="-2.207" y="109">-</tspan><tspan x="-2.207" y="155">-</tspan></text>
+        <text id="_4.287.500_-_-_-" data-name="$4.287.500
+-
+-
+-" transform="translate(437.585 264.587)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-80.297" y="17">$4.287.500</tspan><tspan x="-4.414" y="63">-</tspan><tspan x="-4.414" y="109">-</tspan><tspan x="-4.414" y="155">-</tspan></text>
+        <text id="_-_-_-_--2" data-name="-
+-
+-
+-" transform="translate(699.585 279.587)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-2.207" y="0">-</tspan><tspan x="-2.207" y="46">-</tspan><tspan x="-2.207" y="92">-</tspan><tspan x="-2.207" y="138">-</tspan></text>
+        <g id="Grupo_1180881" data-name="Grupo 1180881" transform="translate(0 1.16)">
+          <text id="_12.500_00" data-name="12.500,00" transform="translate(748.585 262.426)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-35.121" y="17">12.500,00</tspan></text>
+          <text id="_-_-_-" data-name="-
+-
+-" transform="translate(801.146 324.789)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-2.207" y="0">-</tspan><tspan x="-2.207" y="46">-</tspan><tspan x="-2.207" y="92">-</tspan></text>
+        </g>
+        <g id="Grupo_1180882" data-name="Grupo 1180882" transform="translate(0 0.82)">
+          <text id="_4.287.500_00" data-name="$4.287.500,00" transform="translate(1023.098 262.766)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-101.406" y="17">$4.287.500,00</tspan></text>
+          <text id="_-_-_--2" data-name="-
+-
+-" transform="translate(1142.098 324.789)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-2.207" y="0">-</tspan><tspan x="-2.207" y="46">-</tspan><tspan x="-2.207" y="92">-</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_1178987" data-name="Grupo 1178987" transform="translate(179.326 16150.872)">
+      <rect id="Rectángulo_5109" data-name="Rectángulo 5109" width="4" height="25" fill="#fd9826"/>
+      <text id="Figura_9." data-name="Figura 9." transform="translate(15 17.807)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Figura 9.</tspan></text>
+      <text id="KARDEX_-_HUEVO_ORO" data-name="KARDEX - HUEVO ORO" transform="translate(77 17.807)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">KARDEX - HUEVO ORO</tspan></text>
+    </g>
+  </g>
+</svg>
